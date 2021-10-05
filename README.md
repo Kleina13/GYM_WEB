@@ -6,5 +6,7 @@ Gym website ( no name yet )
 
 #### Good to know
  - Vue
+    > [Vue guide](https://vuejs.org/v2/guide/)
  - Vue components
+ - Vue component templates
  - deez nutz...
