@@ -1,0 +1,416 @@
+{
+    "exercises": [
+        {
+            "name": "deadlift",
+            "image": null,
+            "mainmuscles": [
+                "Spinal erector",
+                "Glutes"
+            ],
+            "extramuscles": [
+                "Hip flexors",
+                "Lats"
+            ],
+            "musclegroups": [
+                "BACK"
+            ],
+            "ppl": "PULL"
+        },
+        {
+            "name": "lat pulldown",
+            "image": null,
+            "mainmuscles": [
+                "Lats"
+            ],
+            "extramuscles": [
+                "Rear delts",
+                "Biceps"
+            ],
+            "musclegroups": [
+                "BACK"
+            ],
+            "ppl": "PULL"
+        },
+        {
+            "name": "close grip pulldown",
+            "image": null,
+            "mainmuscles": [
+                "Lats"
+            ],
+            "extramuscles": [
+                "Rear delts",
+                "Biceps"
+            ],
+            "musclegroups": [
+                "BACK"
+            ],
+            "ppl": "PULL"
+        },
+        {
+            "name": "seated cable row",
+            "image": null,
+            "mainmuscles": [
+                "Lats",
+                "Spinal erector",
+                "Rear delts"
+            ],
+            "extramuscles": [
+                "Biceps"
+            ],
+            "musclegroups": [
+                "BACK"
+            ],
+            "ppl": "PULL"
+        },
+        {
+            "name": "face pull",
+            "image": null,
+            "mainmuscles": [
+                "Rear delts"
+            ],
+            "extramuscles": [
+                "Lateral delts",
+                "Traps"
+            ],
+            "musclegroups": [
+                "SHOULDERS"
+            ],
+            "ppl": "PULL"
+        },
+        {
+            "name": "seated bent over raise",
+            "image": null,
+            "mainmuscles": [
+                "Rear delts"
+            ],
+            "extramuscles": [
+                "Lateral delts",
+                "Traps"
+            ],
+            "musclegroups": [
+                "SHOULDERS"
+            ],
+            "ppl": "PULL"
+        },
+        {
+            "name": "lateral raise",
+            "image": null,
+            "mainmuscles": [
+                "Lateral delts"
+            ],
+            "extramuscles": [
+                "Front delts"
+            ],
+            "musclegroups": [
+                "SHOULDERS"
+            ],
+            "ppl": "PUSH"
+        },
+        {
+            "name": "overhead press",
+            "image": null,
+            "mainmuscles": [
+                "Front delts"
+            ],
+            "extramuscles": [
+                "Lateral delts"
+            ],
+            "musclegroups": [
+                "SHOULDERS"
+            ],
+            "ppl": "PUSH"
+        },
+        {
+            "name": "shoulder rotation",
+            "image": null,
+            "mainmuscles": [
+                "Infraspinatus"
+            ],
+            "extramuscles": [
+                "Rear delts"
+            ],
+            "musclegroups": [
+                "SHOULDERS"
+            ],
+            "ppl": "PUSH"
+        },
+        {
+            "name": "bench press",
+            "image": null,
+            "mainmuscles": [
+                "Chest"
+            ],
+            "extramuscles": [
+                "Upper chest",
+                "Triceps"
+            ],
+            "musclegroups": [
+                "CHEST"
+            ],
+            "ppl": "PUSH"
+        },
+        {
+            "name": "incline bench press",
+            "image": null,
+            "mainmuscles": [
+                "Upper chest"
+            ],
+            "extramuscles": [
+                "Chest",
+                "Triceps"
+            ],
+            "musclegroups": [
+                "CHEST"
+            ],
+            "ppl": "PUSH"
+        },
+        {
+            "name": "high to low cable crossover",
+            "image": null,
+            "mainmuscles": [
+                "Lower chest"
+            ],
+            "extramuscles": [
+                "Chest"
+            ],
+            "musclegroups": [
+                "CHEST"
+            ],
+            "ppl": "PUSH"
+        },
+        {
+            "name": "low to high cable crossover",
+            "image": null,
+            "mainmuscles": [
+                "Upper chest"
+            ],
+            "extramuscles": [
+                "Chest"
+            ],
+            "musclegroups": [
+                "CHEST"
+            ],
+            "ppl": "PUSH"
+        },
+        {
+            "name": "dumbbell curl",
+            "image": null,
+            "mainmuscles": [
+                "Biceps"
+            ],
+            "extramuscles": [
+                "Long head",
+                "Short head"
+            ],
+            "musclegroups": [
+                "HANDS"
+            ],
+            "ppl": "PULL"
+        },
+        {
+            "name": "incline curl",
+            "image": null,
+            "mainmuscles": [
+                "Biceps"
+            ],
+            "extramuscles": [
+                "Long head"
+            ],
+            "musclegroups": [
+                "HANDS"
+            ],
+            "ppl": "PULL"
+        },
+        {
+            "name": "concentration curl",
+            "image": null,
+            "mainmuscles": [
+                "Biceps"
+            ],
+            "extramuscles": [
+                "Short head"
+            ],
+            "musclegroups": [
+                "HANDS"
+            ],
+            "ppl": "PULL"
+        },
+        {
+            "name": "cross hammer curl",
+            "image": null,
+            "mainmuscles": [
+                "Biceps"
+            ],
+            "extramuscles": [
+                "brachialis"
+            ],
+            "musclegroups": [
+                "HANDS"
+            ],
+            "ppl": "PULL"
+        },
+        {
+            "name": "cable curl",
+            "image": null,
+            "mainmuscles": [
+                "Biceps"
+            ],
+            "extramuscles": [
+                "Long head",
+                "Short head"
+            ],
+            "musclegroups": [
+                "HANDS"
+            ],
+            "ppl": "PULL"
+        },
+        {
+            "name": "bar pushdown",
+            "image": null,
+            "mainmuscles": [
+                "Triceps"
+            ],
+            "extramuscles": [
+                "Tricep lateral head"
+            ],
+            "musclegroups": [
+                "HANDS"
+            ],
+            "ppl": "PUSH"
+        },
+        {
+            "name": "skull crusher",
+            "image": null,
+            "mainmuscles": [
+                "Triceps"
+            ],
+            "extramuscles": [
+                "Tricep long head"
+            ],
+            "musclegroups": [
+                "HANDS"
+            ],
+            "ppl": "PUSH"
+        },
+        {
+            "name": "rope pushdown",
+            "image": null,
+            "mainmuscles": [
+                "Triceps"
+            ],
+            "extramuscles": [
+                "Tricep medial head"
+            ],
+            "musclegroups": [
+                "HANDS"
+            ],
+            "ppl": "PUSH"
+        },
+        {
+            "name": "back squat",
+            "image": null,
+            "mainmuscles": [
+                "Quads",
+                "Glutes"
+            ],
+            "extramuscles": [
+                ""
+            ],
+            "musclegroups": [
+                "LEGS"
+            ],
+            "ppl": "LEGS"
+        },
+        {
+            "name": "hip thrust",
+            "image": null,
+            "mainmuscles": [
+                "Glutes"
+            ],
+            "extramuscles": [
+                "Hamstrings"
+            ],
+            "musclegroups": [
+                "LEGS"
+            ],
+            "ppl": "LEGS"
+        },
+        {
+            "name": "leg extension",
+            "image": null,
+            "mainmuscles": [
+                "Quads"
+            ],
+            "extramuscles": [
+                ""
+            ],
+            "musclegroups": [
+                "LEGS"
+            ],
+            "ppl": "LEGS"
+        },
+        {
+            "name": "leg curl",
+            "image": null,
+            "mainmuscles": [
+                "Hamstrings"
+            ],
+            "extramuscles": [
+                ""
+            ],
+            "musclegroups": [
+                "LEGS"
+            ],
+            "ppl": "LEGS"
+        },
+        {
+            "name": "split squat",
+            "image": null,
+            "mainmuscles": [
+                "Quads"
+            ],
+            "extramuscles": [
+                ""
+            ],
+            "musclegroups": [
+                "LEGS"
+            ],
+            "ppl": "LEGS"
+        },
+        {
+            "name": "standing calf raise",
+            "image": null,
+            "mainmuscles": [
+                "Calfs"
+            ],
+            "extramuscles": [
+                "Soleus"
+            ],
+            "musclegroups": [
+                "LEGS"
+            ],
+            "ppl": "LEGS"
+        },
+        {
+            "name": "sitting calf raise",
+            "image": null,
+            "mainmuscles": [
+                "Calfs"
+            ],
+            "extramuscles": [
+                "Gastrocnemius"
+            ],
+            "musclegroups": [
+                "LEGS"
+            ],
+            "ppl": "LEGS"
+        }
+    ],
+    "musclegroups": [
+        "BACK",
+        "CHEST",
+        "SHOULDERS",
+        "HANDS",
+        "FEET"
+    ]
+}
