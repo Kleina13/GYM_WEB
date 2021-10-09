@@ -406,7 +406,7 @@
             "ppl": "LEGS"
         }
     ],
-    "musclegroups": [
+    "muscle_groups": [
         "BACK",
         "CHEST",
         "SHOULDERS",
