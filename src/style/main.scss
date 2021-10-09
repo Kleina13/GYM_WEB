@@ -64,6 +64,7 @@ html, body {
 
     p {
         padding: .4rem;
+        text-shadow: invert($text-color) .5px 1px 3px;
     }
 
     @include for-desktop {
